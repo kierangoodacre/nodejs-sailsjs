@@ -1,4 +1,5 @@
---- Intro to sailsJs from Platzi, 
+Intro to sailsJs from Platzi, 
+==============================
 
 Deploying your first application using sails, angular and node
 
