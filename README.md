@@ -1,9 +1,10 @@
-Intro to sailsJs from Platzi, 
+Intro to sailsJs, 
 ==============================
 
-Deploying your first application using sails, angular and node
+Deploying my first application using sailJS, nodeJS and angularJS
 
-deployed application...
+Deployed Application
+----------------------
 
 https://emojible.herokuapp.com/
 
